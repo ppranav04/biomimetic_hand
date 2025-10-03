@@ -1,6 +1,6 @@
 # Biomimetic Hand using InMoov, MG996R Servos & Arduino Uno
 
-This project implements a low-cost **biomimetic robotic hand** that replicates human finger movements using **surface EMG (Electromyography) signals**. The system is based on an **InMoov 3D printed hand**, actuated by **MG996R servo motors**, and controlled by an **Arduino Uno**. Muscle activity obtained from EMG sensors is used to detect user intent and map them to hand gestures such as grasping, pinching, and finger flexion.
+This project implements a low-cost **biomimetic robotic hand** that replicates human finger movements using **surface EMG (Electromyography) signals**. The system is based on an **InMoov 3D printed hand**, actuated by **MG996R servo motors**, and controlled by an **Arduino Uno**. Muscle activity obtained from EMG sensors is used to detect user intent and map them to hand gestures such as grasping.
 
 ***
 
